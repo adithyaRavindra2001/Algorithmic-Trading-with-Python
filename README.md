@@ -31,4 +31,4 @@ would be a new closing price for the Apple stock. It can also be a change in an 
 
  
  
-I hope you learnt something new today Cheers :)
+
